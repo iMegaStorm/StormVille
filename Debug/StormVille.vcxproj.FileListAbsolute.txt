@@ -1,0 +1,2 @@
+C:\Users\lukej\source\repos\StormVille\Debug\StormVille.exe
+C:\Users\lukej\source\repos\StormVille\Debug\StormVille.pdb
